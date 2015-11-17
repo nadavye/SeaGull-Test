@@ -1,2 +1,2 @@
 console.log('hello nadav!');
-console.log('have a nice day!');
+console.log('have a very nice day!');
